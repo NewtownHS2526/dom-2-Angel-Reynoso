@@ -1,5 +1,5 @@
 console.log("DOM Methods Learning Activity - Script Running");
-
+ 
 /* 
 ================================================================================
 SECTION 1: getElementById() - Exercises
